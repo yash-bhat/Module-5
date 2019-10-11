@@ -1,3 +1,3 @@
 # CSc  4120/6120
 
-Object Detection Models : Module-5
+Module-5 : Object Detection Models 
