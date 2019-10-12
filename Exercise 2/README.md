@@ -34,4 +34,4 @@ The DI-Sensor has to be connected to an I2C port with a Grove cable. Apart from 
 
 ## In action
 
-[Imgur](http://i.imgur.com/tmQ00FY.gif)
+![Imgur](http://i.imgur.com/tmQ00FY.gif)
