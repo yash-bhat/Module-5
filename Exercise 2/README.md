@@ -36,4 +36,4 @@ The DI-Sensor has to be connected to an I2C port with a Grove cable. Apart from 
 ## In action
 
 ![Intelligent Object Avoidance](https://imgur.com/nxJSsKx.gif)
-![hell](https://imgur.com/ZybtOQO)
+![hell](https://imgur.com/ZybtOQO.gif)
