@@ -27,11 +27,6 @@ The DI-Sensor has to be connected to an I2C port with a Grove cable. Apart from 
 * `ERROR` : Don't modify this constant. When the sensor can't be detected, it returns a value equal to this constant.
 * `MAX_SPEED` : Through tests it has been proven that this constant's value is the optimum speed for the GoPiGo3.
 * `MIN_SPEED` : The minimum speed for the GoPiGo3. Can be set way lower.
-
-## Preview of the GoPiGo3
-
-![GoPiGo3 with DistanceSensor](http://i.imgur.com/FlHrteg.gif)
-
 ## In action
 
 [Imgur](https://i.imgur.com/tmQ00FY.gifv)
