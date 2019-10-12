@@ -29,6 +29,7 @@ In order to run it, use the following command:
 ```
 python3 robot.py
 ```
+![](IOA.gif)
 
 Depending on how your system is set, the Python 3 executable may be set to `python` or `python3`. To find out which executable you're dealing with, use the `-V` option when
 calling the executable to see which version it is: `python -V` or `python3 -V`.
