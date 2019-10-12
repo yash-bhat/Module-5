@@ -33,4 +33,6 @@ The DI-Sensor has to be connected to an I2C port with a Grove cable. Apart from 
 
 ![GoPiGo3 with DistanceSensor](http://i.imgur.com/FlHrteg.gif)
 
-![twll thjdu](https://imgur.com/BJVgWa0.gif)
+## In action
+
+![twll thjdu](http:/i.imgur.com/BJVgWa0.gif)
